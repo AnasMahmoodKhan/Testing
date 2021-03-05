@@ -1,11 +1,15 @@
+import React, { Component } from 'react';
+import Header from './components/header';
 
-
-function App() {
-  return (
-    <div className="App">
-      Hey
-    </div>
-  );
+class App extends Component {
+  
+  render() { 
+    return ( 
+      <div>
+        <Header/>
+      </div>
+     );
+  }
 }
-
+ 
 export default App;

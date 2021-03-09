@@ -1,0 +1,14 @@
+.listItemComponent{
+    background-color: white;
+    padding: 10px;
+}
+
+.componentTitle{
+    font-size: 24px;
+    color: navy;
+}
+
+.componentDesc{
+    font-size: 16px;
+    color: grey;
+}
